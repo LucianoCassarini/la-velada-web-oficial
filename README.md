@@ -150,7 +150,7 @@ Si quieres contribuir de una manera mas sencilla, puedes iniciar este proyecto d
 
 [![Abrir en Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/midudev/la-velada-web-oficial)
 
-**¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
+** ¡Gracias a todos los colaboradores que han hecho posible este proyecto! **
 
 [![Contribuidores](https://contrib.rocks/image?repo=midudev/la-velada-web-oficial)](https://github.com/midudev/la-velada-web-oficial/graphs/contributors)
 
